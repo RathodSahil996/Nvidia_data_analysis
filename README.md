@@ -5,6 +5,7 @@
 
 ## 📌 Project Overview
 The objective of this project was to analyze NVIDIA's synthetic 2026 global sales data to uncover insights regarding product volume, revenue generation, regional market share, and the impact of supply chain scarcity on consumer pricing. 
+This is for practice only
 
 This project explores the massive shift in NVIDIA's business model from Consumer Gaming GPUs to Enterprise Data Center AI infrastructure.
 
@@ -23,3 +24,5 @@ This project explores the massive shift in NVIDIA's business model from Consumer
 1. **Pricing & Supply Dynamics (Scatter Plot):** Visualized the relationship between MSRP and Street Price, using a stock status slicer to prove how inventory scarcity ("Sold Out") drastically drives up consumer markups.
 2. **The Enterprise AI Boom (Time-Series Line Chart):** Tracked quarterly revenue growth, clearly showing the Data Center AI segment completely overtaking Consumer Gaming revenue as the year progressed.
 3. **Customer Segment Matrix (Heatmap):** Utilized conditional background formatting to pinpoint Direct Enterprise sales to Cloud Providers as the absolute highest-earning sales Channel.
+
+The Project may have some mistacks
